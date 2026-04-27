@@ -158,7 +158,7 @@ public void 更新日志(String g, String u, int t) {
         public void run() {
             AlertDialog.Builder builder = new AlertDialog.Builder(activity, AlertDialog.THEME_DEVICE_DEFAULT_LIGHT);
             builder.setTitle("脚本更新日志");
-            builder.setMessage("此脚本禁止商用！\n有任何问题请使用以下方式联系作者：\nQQ群：836934271\nEmail：3273455424@qq.com\n\n更新日志：\n" + Update_Logs + "\n\n");
+            builder.setMessage("此脚本禁止商用！\n\n更新日志：\n" + Update_Logs + "\n\n");
             builder.setPositiveButton("确定", null);
             builder.setCancelable(true);
             AlertDialog dialog = builder.show();
