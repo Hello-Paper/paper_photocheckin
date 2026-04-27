@@ -1,0 +1,3 @@
+文件名不需要更改，注意是jpg,jpeg,png,webp格式即可
+
+The file name does not need to be changed. Note that the format is JPG, JPEG, PNG, or webp
