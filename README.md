@@ -5,7 +5,7 @@ A plugin for QStory.
 
 脚本介绍在desc.txt文件
 
-define_photos是默认的背景图，当获取API图片失败是使用，若该文件夹中没有图片，则使用第三级方案，创建渐变16:9背景
+define_photos是默认的背景图，当获取API图片失败时使用，若该文件夹中没有图片，则使用第三级方案，创建渐变16:9背景
 
 main.java为脚本主体，extend文件夹中为main中调用的部分代码
 
